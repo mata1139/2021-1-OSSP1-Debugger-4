@@ -25,7 +25,7 @@ image = cv2.imread('/gdrive/MyDrive/face1.JPG')
 image = imutils.resize(image, width=1000)
 tmp_image = image[:]
 
-
+gray = cv2.cvtColor(image, cv2.COLOR_BGR2GRAY)
 rects = detector(gray,1)
 
 for (i, rect) in enumerate(rects):
