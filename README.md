@@ -1,8 +1,7 @@
 tensorflow version 1.x, 
 
 결과 평가를 위한 fid score 도출 오픈소스
-
-https://github.com/bioinf-jku/TTUR![image](https://user-images.githubusercontent.com/68414594/117543061-30f57200-b056-11eb-851e-64c51661ef1f.png)
+https://github.com/bioinf-jku/TTUR
 해당 오픈소스를 활용함![image](https://user-images.githubusercontent.com/68414594/117543076-4074bb00-b056-11eb-9e37-bdf8fd55ae20.png)
 
 
