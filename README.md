@@ -2,6 +2,10 @@ tensorflow version 1.x,
 
 결과 평가를 위한 fid score 도출 오픈소스
 
+https://github.com/bioinf-jku/TTUR![image](https://user-images.githubusercontent.com/68414594/117543061-30f57200-b056-11eb-851e-64c51661ef1f.png)
+해당 오픈소스를 활용함![image](https://user-images.githubusercontent.com/68414594/117543076-4074bb00-b056-11eb-9e37-bdf8fd55ae20.png)
+
+
 ![1_tJmwViZesuFM89TcVN7J3A](https://user-images.githubusercontent.com/68414594/117540393-2c2ac100-b04a-11eb-81b5-fb2e626fa04b.png)
 
 autoencoder로 생성한 영상 (g)간의 벡터값의 차이의 제곱 및 두 벡터의 공분산을 계산한 값을 fid score라고 할 수 있으며,
