@@ -1,4 +1,4 @@
-tensorflow version 1.10:
+tensorflow version 1.x, 
 
 결과 평가를 위한 fid score 도출 오픈소스
 
