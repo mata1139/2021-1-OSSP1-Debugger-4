@@ -8,3 +8,5 @@
 - 박민수
 - 이원정
 - 임준엽
+
+05.10. modified fid score (not complete don't complie)
