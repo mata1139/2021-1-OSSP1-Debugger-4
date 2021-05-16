@@ -18,7 +18,11 @@ face-landmark 좌표를 통해서 얻어낸 얼굴의 윤곽, 눈의 하단에�
 ## 잘라낸 사진 합성 후 재배치
 
 ## 영상 Frame 단위로 자르기
-
+우리 프로젝트의 input은 마스크를 낀 사진과, 얼굴이 다 나오는 "동영상"이다. 따라서, 동영상에서 프레임 단위로 자른 후에,
+이중 한 이미지를 합성에 사용하고, 다른 모든 이미지들은 autoencoder에 사용한다.
+<center><img src="https://user-images.githubusercontent.com/71958885/118405550-7992d800-b6b3-11eb-9bce-f71ef02bc289.gif"></center>
+다음의 동영상에서 얼굴부분만 crop하여 프레임단위로 저장하였다.
+<center><img src="https://user-images.githubusercontent.com/71958885/118405586-ad6dfd80-b6b3-11eb-95de-c8f666d795e1.PNG"></center>
 
 
 
