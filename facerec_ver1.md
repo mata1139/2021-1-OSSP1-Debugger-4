@@ -29,4 +29,11 @@ face-landmark 좌표를 통해서 얻어낸 얼굴의 윤곽, 눈의 하단에�
 # 이미지 처리 진행과정 - 11주차
 
 ## 피부톤 조정
+합성될 이미지와, 합성시킬 이미지의 조명차이 때문에, 합성된 사진의 피부톤의 차이가 클 수 있기 때문에,
+이를 고려하여 피부톤을 조정하고자 하였다.
+<center><img src="https://user-images.githubusercontent.com/71958885/118405766-32591700-b6b4-11eb-93b4-90c59b71f64e.png" width="256" height="256"></center>
+<center><img src="https://user-images.githubusercontent.com/71958885/118405774-3f760600-b6b4-11eb-9262-e0d27e8e1009.png" width="256" height="256"></center>
+위의 합성된 사진이 아래 사진과 같이 피부톤이 어둡게 변화된 것을 확인할 수 있었다.
+
+
 ## 이미지 rotate
